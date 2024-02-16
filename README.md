@@ -1,5 +1,4 @@
-# AI-Assistant
-# Voice-Activated Assistant with Feature Extensions
+# AI Voice-Activated Assistant with Feature Extensions
 
 This Python project implements a voice-activated assistant capable of performing various tasks based on voice commands. The assistant leverages several libraries and APIs to provide functionalities such as web browsing, joke-telling, weather reporting, time telling, searching the web, and sending WhatsApp messages.
 
